@@ -5,9 +5,6 @@
         <span class="orderspan2">选择地址</span>
       </div>
       <div class="add" v-for="(value,index) in arrayss" :key="index">
-        <!--<span>{{value.name}}</span>-->
-        <!--<span>{{value.address}}</span>-->
-        <!--<span>{{value.phone}}</span>-->
       </div>
       <div class="address">
         <div class="address1" @click="selectAddress">
