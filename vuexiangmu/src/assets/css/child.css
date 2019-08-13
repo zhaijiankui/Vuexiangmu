@@ -1,0 +1,183 @@
+/*.abc{*/
+  /*z-index: 100;*/
+/*}*/
+/*.Nearbymerchants,.splieb{*/
+  /*z-index: 0;*/
+/*}*/
+/*.span12{*/
+  /*width: 2.2rem;*/
+  /*height:0.17rem;*/
+  /*display: inline-block;*/
+/*}*/
+/*.xxspan{*/
+  /*display: inline-block;*/
+  /*!*font-size: 0.05rem;*!*/
+  /*margin-top: 0.05rem;*/
+  /*color:#f6a907;*/
+/*}*/
+/*.spanaa{*/
+  /*font-size: 0.01rem;*/
+  /*display: inline-block;*/
+  /*margin-right: -0.03rem;*/
+/*}*/
+/*.goodsspan89{*/
+  /*display: inline-block;*/
+  /*height: 0.17rem;*/
+  /*!*line-height: 0.3rem;*!*/
+/*}*/
+/*.goodsspan8{*/
+  /*font-size: 0.08rem;*/
+  /*display: inline-block;*/
+  /*color:orangered;*/
+  /*font-weight: 400;*/
+/*}*/
+/*.goodsspan9{*/
+  /*font-size: 0.08rem;*/
+  /*display: inline-block;*/
+  /*color:rgba(0,0,0,0.5);*/
+  /*font-weight: 400;*/
+/*}*/
+
+/*.goodsspan5{*/
+  /*display: inline-block;*/
+  /*font-size: 0.12rem;*/
+  /*font-family: "微软雅黑";*/
+  /*color:rgba(0,0,0,0.45);*/
+  /*font-weight: bold;*/
+  /*margin-top: 0.08rem;*/
+/*}*/
+/*.goodsspan6{*/
+  /*float: right;*/
+  /*font-family: "微软雅黑";*/
+  /*color:rgba(0,0,0,0.45);*/
+  /*font-weight: bold;*/
+  /*font-size: 0.12rem;*/
+  /*margin-top: 0.08rem;*/
+  /*display: inline-block;*/
+/*}*/
+/*.goodsspan7{*/
+  /*color:dodgerblue;*/
+  /*float: right;*/
+  /*font-family: "微软雅黑";*/
+  /*color:rgba(0,0,255,0.45);*/
+  /*font-weight: bold;*/
+  /*font-size: 0.12rem;*/
+  /*margin-top: 0.08rem;*/
+  /*display: inline-block;*/
+  /*margin-right: 0.1rem;*/
+/*}*/
+/*.goodsspan3{*/
+  /*display: inline-block;*/
+  /*border: 0.01rem solid rgba(0,0,0,0.1);*/
+  /*font-size: 0.08rem;*/
+  /*height: 0.15rem;*/
+  /*margin:0.04rem 0.007rem 0;*/
+  /*padding: 0.008rem 0.01rem;*/
+  /*float: right;*/
+  /*color:rgba(0,0,0,0.8);*/
+  /*border-radius: 0.02rem;*/
+  /*font-weight: 300;*/
+/*}*/
+/*.spanbutton1{*/
+  /*margin-top: 0.05rem;*/
+  /*!*width: 0.37rem;*!*/
+  /*height: 0.13rem;*/
+  /*display: inline-block;*/
+  /*float: right;*/
+  /*font-size:0.01rem;*/
+  /*background: deepskyblue;*/
+  /*border-radius: 0.03rem;*/
+  /*font-weight: 400;*/
+  /*color:#fff;*/
+
+
+/*}*/
+/*.spanbutton2{*/
+  /*margin-top: 0.05rem;*/
+  /*display: inline-block;*/
+  /*float: right;*/
+  /*height:0.13rem;*/
+  /*margin-left: 0.01rem;*/
+  /*border:0.005rem solid deepskyblue;*/
+  /*font-size:0.01rem;*/
+  /*border-radius: 0.02rem;*/
+  /*color:deepskyblue;*/
+  /*font-weight: 400;*/
+/*}*/
+/*.goodsspan1{*/
+  /*padding:0 0.05rem;*/
+  /*width: 0.31rem;*/
+  /*height: 0.15rem;*/
+  /*background:#ffd930;*/
+  /*text-align: center;*/
+  /*font-size:0.12rem;*/
+  /*border-radius: 0.04rem;*/
+/*}*/
+/*.goodsspan2{*/
+  /*display: inline-block;*/
+  /*margin-left: -0.05rem;*/
+  /*height:0.17rem;*/
+  /*font-family: "微软雅黑";*/
+  /*font-size:0.15rem;*/
+  /*padding:0 0.05rem;*/
+  /*font-weight: bold;*/
+  /*border-radius: 0.05rem;*/
+
+/*}*/
+/*ul{*/
+
+/*}*/
+/*li{*/
+  /*!*border:1px solid #ccc;*!*/
+  /*width: 98%;*/
+  /*float: left;*/
+  /*!*height:0.15rem;*!*/
+  /*display: inline-block;*/
+  /*margin-top:0.1rem;*/
+
+
+/*}*/
+/*.spliebright{*/
+  /*width:2.8rem;*/
+  /*height:0.7rem;*/
+  /*float: left;*/
+/*}*/
+/*.spliebleft{*/
+  /*width:0.7rem;*/
+  /*height:0.7rem;*/
+  /*float: left;*/
+  /*margin-right:0.1rem;*/
+/*}*/
+/*.spliebleft img{*/
+  /*display: inline-block;*/
+  /*width: 90%;*/
+  /*height:100%;*/
+  /*margin:0.1rem;*/
+/*}*/
+/*.splieb{*/
+  /*width: 100%;*/
+  /*height:1.1456rem;*/
+  /*background: #fff;*/
+  /*border-bottom: 0.001rem solid rgba(0,0,0,0.1);*/
+/*}*/
+/*.Nearbymerchants{*/
+  /*width: 100%;*/
+  /*height:0.4rem;*/
+  /*background: #fff;*/
+/*}*/
+/*.Nearbymerchants span{*/
+  /*line-height: 0.4rem;*/
+  /*display: inline-block;*/
+
+
+/*}*/
+/*.bymerchants{*/
+  /*color:rgba(0,0,0,0.3);*/
+  /*display: inline-block;*/
+  /*margin-left: 0.2rem;*/
+/*}*/
+/*.bymerchants1{*/
+  /*margin-left: 0.05rem;*/
+  /*color:rgba(0,0,0,0.3);*/
+  /*font-family: "微软雅黑";*/
+/*}*/
