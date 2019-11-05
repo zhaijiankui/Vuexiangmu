@@ -14,7 +14,7 @@
     "better-scroll": "^1.15.2",
     "bootstrap": "^3.4.1",
     "element-ui": "^2.11.1",
-    "mongoose": "^5.6.7",
+    "mongoose": "^5.7.5",
     "vant": "^2.0.9",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
